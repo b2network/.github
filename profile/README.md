@@ -1,5 +1,5 @@
-<img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
-# B²
+![banner](https://github.com/b2network/.github/blob/main/Group%20449.png)
+# Welcome B² network organization 
 B² network is a Bitcoin layer2 network that bolsters transaction speed and broadens application diversity without sacrificing
 security.
 - 1️⃣ Leveraging rollup technology, the B^2 Network provides an off-chain transaction platform that supports Turing-complete smart contracts, boosting transaction efficiency and cutting costs.
