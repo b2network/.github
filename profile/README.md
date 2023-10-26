@@ -1,4 +1,4 @@
-B^2 network is a Bitcoin layer2 network that bolsters transaction speed and broadens application diversity without sacrificing
+B² network is a Bitcoin layer2 network that bolsters transaction speed and broadens application diversity without sacrificing
 security.
 - 1️⃣ Leveraging rollup technology, the B^2 Network provides an off-chain transaction platform that supports Turing-complete smart contracts, boosting transaction efficiency and cutting costs.
 - 2️⃣ By integrating zero-knowledge proof (ZKP) technology with Bitcoin's Taproot, enhanced transaction privacy and security are ensured.
