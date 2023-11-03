@@ -3,7 +3,7 @@
 [B² network](https://www.bsquared.network/) is a Bitcoin layer2 network that bolsters transaction speed and broadens application diversity without sacrificing
 security.
 - 1️⃣ Leveraging rollup technology, the B² Network provides an off-chain transaction platform that supports Turing-complete smart contracts, boosting transaction efficiency and cutting costs.
-- 2️⃣ By integrating zero-knowledge proof (ZKP) technology with Bitcoin's Taproot, enhanced transaction privacy and security are ensured.
+- 2️⃣ By integrating zero-knowledge proof (ZKP) technology and challenge-response protocol of fraud proofs with Bitcoin's Taproot, enhanced transaction privacy and security are ensured.
 - 3️⃣The network aims to evolve Bitcoin into a dynamic platform, setting the stage for innovative applications in DeFi, NFTs, and beyond, both for traditional Bitcoin assets and emerging Bitcoin-derived assets.
 
 A tip of the hat and a grand salute to the unsung heroes of the Bitcoin saga! To the users, with your unwavering faith,
