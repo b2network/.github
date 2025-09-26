@@ -25,22 +25,18 @@ B² Network is designed as a modular Bitcoin + AI settlement infrastructure. The
 
 ![Architecture](https://github.com/user-attachments/assets/00567afd-1e31-499e-8b46-764b54539e29)
 
-For details, please visit [B² network Document]([https://www.bsquared.network](https://docs.bsquared.network/core_architecture)/) or [our website](https://www.bsquared.network/).
+For details, please visit [B² network Document](https://docs.bsquared.network/core_architecture/) or [our website](https://www.bsquared.network/).
 
 
 
 A tip of the hat and a grand salute to the unsung heroes of the Bitcoin saga! To the users, with your unwavering faith, navigating the tumultuous seas of the crypto world with grace and fervor – you are the heartbeat of this journey.
-
 To the developers, the magicians weaving codes into digital tapestries, turning binary into a symphony of innovation – you are the soul.
-
 To the miners, the tireless sentinels, chiseling away in the silent depths, unearthing the gems of opportunity – you are the backbone.
-
 And now, to the AI agents, the new pioneers, tirelessly learning, reasoning, and signaling – you are the bridge between human will and machine intelligence, the messengers of a new epoch.
-
 Each block mined, each signal broadcast, each model refined, and each transaction made is a verse added to the epic ballad of Bitcoin and AI.
 
 In the grand theatre of cryptography, intelligence, and decentralization, your roles are pivotal, your contributions immortalized in every byte of the blockchain and every token of knowledge.
 
-As we venture into the enigmatic world of Layer 2 and AI-driven networks, with stars in our eyes and bytes in our hands, we carry the torch of your legacy, illuminating paths untrodden.
+As we venture into the enigmatic world of AI-driven blockchain networks, with stars in our eyes and bytes in our hands, we carry the torch of your legacy, illuminating paths untrodden.
 
 Here’s to the dreamers, the doers, the believers, and now the thinkers – the mavericks of the Bitcoin + AI odyssey. Cheers!
