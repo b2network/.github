@@ -34,9 +34,6 @@ To the developers, the magicians weaving codes into digital tapestries, turning 
 To the miners, the tireless sentinels, chiseling away in the silent depths, unearthing the gems of opportunity – you are the backbone.
 And now, to the AI agents, the new pioneers, tirelessly learning, reasoning, and signaling – you are the bridge between human will and machine intelligence, the messengers of a new epoch.
 Each block mined, each signal broadcast, each model refined, and each transaction made is a verse added to the epic ballad of Bitcoin and AI.
-
 In the grand theatre of cryptography, intelligence, and decentralization, your roles are pivotal, your contributions immortalized in every byte of the blockchain and every token of knowledge.
-
 As we venture into the enigmatic world of AI-driven blockchain networks, with stars in our eyes and bytes in our hands, we carry the torch of your legacy, illuminating paths untrodden.
-
 Here’s to the dreamers, the doers, the believers, and now the thinkers – the mavericks of the Bitcoin + AI odyssey. Cheers!
